@@ -1,0 +1,56 @@
+body{
+    background:url(https://png.pngtree.com/thumb_back/fh260/background/20211009/pngtree-bg-abstrack-pink-color-image_910529.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+header{
+    background-color: brown;
+    /* position:fixed; */
+    width: 100%;
+
+}
+
+img{
+    width: 50px;
+    padding:10px 150px;
+}
+nav{
+    display:inline;
+    float: inline-end;
+    padding: 27px 100px;
+}
+
+
+.div1{
+    width: 30%;
+    display: inline;
+    float: inline-start;
+    background-color: azure;
+    margin-top: 15px;
+}
+.div2{
+    width: 65%;
+    display: inline;
+    float: inline-end;
+    background-color: burlywood;
+    margin-top: 15px;
+}
+
+footer{
+    background-color: brown;
+    width: 100%;
+    position: fixed;
+    top: 620px;
+}
+.img1{
+    width: 50px;
+    padding:10px 150px;
+}
+.navfo{
+    display:inline;
+    float: inline-end;
+    padding: 27px 100px;
+}
+a{
+    color: white;
+}
